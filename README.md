@@ -3,6 +3,7 @@ This repo preserves a collection of 513 porn mods for SWBF2. Archived to ensure 
 
 ## Download Adult Mods
 https://mega.nz/folder/GkkCHQbI#vXvg65MH4bC1jdHVulnQ8g
+
 **Total size:** 13 GB (hosted on Mega)
 
 ## How to Install a Mod
@@ -14,6 +15,7 @@ https://mega.nz/folder/GkkCHQbI#vXvg65MH4bC1jdHVulnQ8g
 
 ### 1. Download Frosty Mod Manager
 Latest release (v1.0.6.3):  
+
 https://github.com/CadeEvs/FrostyToolsuite/releases/download/v1.0.6.3/FrostyModManager.zip
 
 ### 2. Extract & Launch
