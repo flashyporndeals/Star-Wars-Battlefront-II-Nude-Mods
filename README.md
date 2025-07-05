@@ -1,7 +1,7 @@
-# Star Wars Battlefront II Porn Mods Collection
-**A collection of 513 adult content mods from Nexus Mods**  
+# Star Wars Battlefront II Nude Mods Collection
+This repo preserves a collection of 513 porn mods for SWBF2. They are being archived to ensure they do not become lost media. 
 
-## Download Nude Mods
+## Download Adult Mods
 https://mega.nz/folder/GkkCHQbI#vXvg65MH4bC1jdHVulnQ8g
 **Total size:** 13 GB (hosted on Mega)
 
