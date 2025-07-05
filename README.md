@@ -9,7 +9,7 @@ https://mega.nz/folder/GkkCHQbI#vXvg65MH4bC1jdHVulnQ8g
 ## How to Install a Mod
 1. Open the Mega link above  
 2. Browse for the mod you want  
-3. Download a .fbmod file or the entire nude mod collection
+3. Download a .fbmod file *or* the entire nude mod collection
 
 ## Install Mods using Frosty Mod Manager (Important ⚠️)
 
