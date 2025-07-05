@@ -11,7 +11,7 @@ https://mega.nz/folder/GkkCHQbI#vXvg65MH4bC1jdHVulnQ8g
 2. Browse for the mod you want  
 3. Download a .fbmod file *or* the entire nude mod collection
 
-## Install Mods using Frosty Mod Manager | Important! ⚠️
+## Install Mods using Frosty Mod Manager | Important ⚠️
 
 ### 1. Download Frosty Mod Manager
 Latest release (v1.0.6.3):  
