@@ -26,7 +26,7 @@ https://github.com/CadeEvs/FrostyToolsuite/releases/download/v1.0.6.3/FrostyModM
 - Click Star Wars Battlefront II
 - Click **Add Mod(s)**  
 - Select the downloaded .fbmod file
-- Click **Apply Mod(s)
+- Click **Apply Mod(s)**
 - Click **➤ Launch** to start the game with the selected mod(s)
 
 ## Disclaimer
