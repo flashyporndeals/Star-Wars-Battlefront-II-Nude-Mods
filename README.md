@@ -14,7 +14,7 @@ https://mega.nz/folder/GkkCHQbI#vXvg65MH4bC1jdHVulnQ8g
 ## Install Mods using Frosty Mod Manager | Important ⚠️
 
 ### 1. Download Frosty Mod Manager
-Release v1.0.6.3:  
+Release version 1.0.6.3:  
 https://github.com/CadeEvs/FrostyToolsuite/releases/download/v1.0.6.3/FrostyModManager.zip
 
 ### 2. Extract & Launch
